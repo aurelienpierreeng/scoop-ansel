@@ -1,10 +1,10 @@
 {
-    "version": "0.0.0+5203.g8bef6908d9",
+    "version": "0.0.0+5241.g7230d1b355",
     "description": "Photo editor and library manager for digital negatives (nightly build)",
     "homepage": "https://ansel.photos/",
     "license": "GPL-3.0-or-later",
-    "url": "https://github.com/aurelienpierreeng/ansel/releases/download/nightly-2026-10/ansel-0.0.0%2B5203.g8bef6908d9-win64.exe",
-    "hash": "f12651c2854092dddae94c089c1d073b899a08b2e29450c6ab11e8162b86c0f9",
+    "url": "https://github.com/aurelienpierreeng/ansel/releases/download/nightly-2026-10/ansel-0.0.0%2B5241.g7230d1b355-win64.exe",
+    "hash": "46386979cb49911843651d510648581c6dc292a92375a808f301b2654016ea7c",
     "innosetup": false,
     "installer": {
         "args": [
